@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**G0IDi/G0IDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hola 👋, mi nombre Andrés Godoy
+#### soy tecnólogo en **desarrollo de software** 
+![soy tecnólogo en **desarrollo de software** ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+soy un estudiante, desarrollador de software con conocimiento en python, node, js, html, css, c#
+
+Habilidades: PYTHON / NODE / JS / HTML / CSS / C#
+
+
+
+
+
+
