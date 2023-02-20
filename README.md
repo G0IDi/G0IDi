@@ -6,7 +6,7 @@
 
 soy un estudiante, desarrollador de software con conocimiento en python, node, js, html, css, c#
 
-Habilidades: PYTHON / NODE / JS / HTML / CSS / C#
+Habilidades: PYTHON / NODE / JS / HTML / CSS / C# / PHP 
 
 
 
